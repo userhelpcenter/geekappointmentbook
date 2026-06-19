@@ -11,7 +11,7 @@ Introduction
 
 Geek Squad is a trusted tech support service that helps users fix devices, install software, and troubleshoot technical problems. Scheduling an appointment allows you to get expert help quickly and efficiently.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
